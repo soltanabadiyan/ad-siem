@@ -1,2 +1,2 @@
-# ad-siem
+# ad-SIEM
 Advanced Decentralized SIEM
